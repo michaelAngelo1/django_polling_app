@@ -1,2 +1,1 @@
-# django_polling_app
-test
+# django_polls
